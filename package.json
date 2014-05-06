@@ -1,0 +1,25 @@
+{
+  "name": "Chinese-Writing-Style-Converter",
+  "version": "0.0.1",
+  "description": "A simple library converting chinese style between vertical and horizon.",
+  "main": "cwsc.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh+git@github.com:imZack/Chinese-Writing-Style-Converter.git"
+  },
+  "keywords": [
+    "chinese",
+    "style",
+    "vertical",
+    "horizon",
+    "transform"
+  ],
+  "author": "YuLun Shih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imZack/Chinese-Writing-Style-Converter/issues"
+  }
+}
