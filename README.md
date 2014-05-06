@@ -9,9 +9,12 @@ A simple library converting chinese writing style between vertical and horizon.
 使用方法
 --------
 
-### In Node.js
+### In Node.js (NPM)
 
-`npm install cswc` OR
+https://www.npmjs.org/package/chinese-writing-style-converter
+
+`npm install chinese-writing-style-converter` OR
+
 `npm install git@github.com:imZack/Chinese-Writing-Style-Converter.git`
 
 ```js

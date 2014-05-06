@@ -1,5 +1,5 @@
 {
-  "name": "cwsc",
+  "name": "chinese-writing-style-converter",
   "version": "0.0.1",
   "description": "A simple library converting chinese style between vertical and horizon.",
   "main": "cwsc.js",
