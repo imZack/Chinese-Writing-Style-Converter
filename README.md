@@ -28,7 +28,7 @@ var fullwidth = converter.convert(halfwidth, 'full');  // 轉半形
 ### In Browser
 
 ```js
-<script src="https://raw.githubusercontent.com/imZack/Chinese-Writing-Style-Converter/master/cwsc.js"></script>
+<script src="//rawgit.com/imZack/Chinese-Writing-Style-Converter/master/cwsc.js"></script>
 var verticalText = converter.toVertical(inputText);    // 轉直書
 var horizonText = converter.toHorizon(verticalText);   // 轉橫書
 var halfwidth = converter.convert(fullwidth, 'half');  // 轉全形
